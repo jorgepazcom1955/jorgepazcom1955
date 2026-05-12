@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub
 
-<!--
-**jorgepazcom1955/jorgepazcom1955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Jorge Paz** e sou um desenvolvedor em aprendizado focado em **desenvolvimento web front-end**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em uma jornada de aprendizado contínuo, desenvolvendo minhas habilidades em desenvolvimento web. Sou apaixonado por criar interfaces bonitas e funcionais que ofereçam uma ótima experiência ao usuário.
+
+## 💻 Tecnologias & Ferramentas
+
+Atualmente estou trabalhando com:
+
+- **HTML5** - Estrutura e semântica web
+- **CSS3** - Estilização e design responsivo
+- **JavaScript** - Interatividade e lógica front-end
+
+## 📚 O que estou aprendendo
+
+- Desenvolvimento web responsivo
+- Boas práticas de código
+- Versionamento com Git e GitHub
+- Projetos práticos e desafiadores
+
+## 🎯 Meus Projetos
+
+Em breve vou compartilhar meus projetos aqui! Fique atento para atualizações. 🔄
+
+## 📫 Como me contatar
+
+- **Email:** [jorgepazcom@gmail.com](mailto:jorgepazcom@gmail.com)
+- **GitHub:** [github.com/jorgepazcom1955](https://github.com/jorgepazcom1955)
+
+---
+
+⭐ Se você gostou do meu perfil, considere deixar uma estrela nos meus repositórios!
+
