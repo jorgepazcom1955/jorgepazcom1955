@@ -1,9 +1,12 @@
 # 🔥 Olá! Bem-vindo ao meu GitHub
 
-## 👋 Meu nome é **Jorge Luiz Soares**
-### (@jorgepazcom1955)
-
-Sou um desenvolvedor em aprendizado focado em **desenvolvimento web front-end**.
+<div style="background-image: url('https://horizons-cdn.hostinger.com/18d43fed-5ac1-4b37-82d3-c0e8a36d8734/4d1c084211a28f13d9e554e3f8607049.jpg'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 10px; position: relative;">
+  <div style="background: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 10px; text-align: center;">
+    <h2 style="color: white; margin: 0;">👋 Meu nome é <strong>Jorge Luiz Soares</strong></h2>
+    <h3 style="color: #F7931E; margin: 10px 0;">(@jorgepazcom1955)</h3>
+    <p style="color: white; font-size: 16px;">Sou um desenvolvedor em aprendizado focado em <strong>desenvolvimento web front-end</strong>.</p>
+  </div>
+</div>
 
 ---
 
@@ -87,3 +90,4 @@ Fique atento para atualizações incríveis!
 **Obrigado por visitar! 🙏**
 
 </div>
+
