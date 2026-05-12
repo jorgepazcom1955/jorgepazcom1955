@@ -23,26 +23,26 @@ Estou em uma jornada de aprendizado contínuo, desenvolvendo minhas habilidades 
 
 Atualmente estou trabalhando com:
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 40px 0;">
   <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 40px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 24px; min-width: 100px; display: flex; align-items: center; justify-content: center;">
+    <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 80px 60px; border-radius: 15px; color: white; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(255, 107, 53, 0.3);">
       HTML5
     </div>
-    <p style="margin-top: 10px; font-weight: bold; color: #FF6B35;">Estrutura</p>
+    <p style="margin-top: 15px; font-weight: bold; color: #FF6B35; font-size: 18px;">Estrutura</p>
   </div>
   
   <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 40px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 24px; min-width: 100px; display: flex; align-items: center; justify-content: center;">
+    <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 80px 60px; border-radius: 15px; color: white; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(247, 147, 30, 0.3);">
       CSS3
     </div>
-    <p style="margin-top: 10px; font-weight: bold; color: #F7931E;">Estilização</p>
+    <p style="margin-top: 15px; font-weight: bold; color: #F7931E; font-size: 18px;">Estilização</p>
   </div>
   
   <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 40px 30px; border-radius: 12px; color: #333; font-weight: bold; font-size: 24px; min-width: 100px; display: flex; align-items: center; justify-content: center;">
+    <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 80px 60px; border-radius: 15px; color: #333; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(255, 215, 0, 0.3);">
       JavaScript
     </div>
-    <p style="margin-top: 10px; font-weight: bold; color: #FFD700;">Interatividade</p>
+    <p style="margin-top: 15px; font-weight: bold; color: #FFD700; font-size: 18px;">Interatividade</p>
   </div>
 </div>
 
@@ -96,3 +96,4 @@ Fique atento para atualizações incríveis!
 ### ⭐ Se você gostou do meu perfil, considere deixar uma estrela nos meus repositórios!
 
 **Obrigado por visitar! 🙏**
+
