@@ -3,8 +3,6 @@
 ## 👋 Meu nome é **Jorge Luiz Soares**
 ### (@jorgepazcom1955)
 
-![Foto de Perfil](https://horizons-cdn.hostinger.com/18d43fed-5ac1-4b37-82d3-c0e8a36d8734/4d1c084211a28f13d9e554e3f8607049.jpg)
-
 Sou um desenvolvedor em aprendizado focado em **desenvolvimento web front-end**.
 
 ---
