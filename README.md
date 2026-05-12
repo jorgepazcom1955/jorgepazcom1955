@@ -23,15 +23,26 @@ Estou em uma jornada de aprendizado contínuo, desenvolvendo minhas habilidades 
 
 Atualmente estou trabalhando com:
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-  <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center; min-width: 120px;">
-    🟠 HTML5<br><small>Estrutura</small>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <div style="text-align: center;">
+    <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 40px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 24px; min-width: 100px; display: flex; align-items: center; justify-content: center;">
+      HTML5
+    </div>
+    <p style="margin-top: 10px; font-weight: bold; color: #FF6B35;">Estrutura</p>
   </div>
-  <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center; min-width: 120px;">
-    🔴 CSS3<br><small>Estilização</small>
+  
+  <div style="text-align: center;">
+    <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 40px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 24px; min-width: 100px; display: flex; align-items: center; justify-content: center;">
+      CSS3
+    </div>
+    <p style="margin-top: 10px; font-weight: bold; color: #F7931E;">Estilização</p>
   </div>
-  <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 15px 25px; border-radius: 8px; color: #333; font-weight: bold; text-align: center; min-width: 120px;">
-    🟡 JavaScript<br><small>Interatividade</small>
+  
+  <div style="text-align: center;">
+    <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 40px 30px; border-radius: 12px; color: #333; font-weight: bold; font-size: 24px; min-width: 100px; display: flex; align-items: center; justify-content: center;">
+      JavaScript
+    </div>
+    <p style="margin-top: 10px; font-weight: bold; color: #FFD700;">Interatividade</p>
   </div>
 </div>
 
