@@ -10,8 +10,6 @@
     <img src="img/foto.jpg" alt="Foto"
         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 150px; height: 150px; border-radius: 50%; border: 5px solid white;">
 </div>
-
-
 Sou um desenvolvedor em aprendizado focado em **desenvolvimento web front-end**.
 
 ---
