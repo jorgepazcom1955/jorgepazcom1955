@@ -23,9 +23,17 @@ Estou em uma jornada de aprendizado contínuo, desenvolvendo minhas habilidades 
 
 Atualmente estou trabalhando com:
 
-- 🟠 **HTML5** - Estrutura e semântica web
-- 🔴 **CSS3** - Estilização e design responsivo
-- 🟡 **JavaScript** - Interatividade e lógica front-end
+<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center; min-width: 120px;">
+    🟠 HTML5<br><small>Estrutura</small>
+  </div>
+  <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center; min-width: 120px;">
+    🔴 CSS3<br><small>Estilização</small>
+  </div>
+  <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 15px 25px; border-radius: 8px; color: #333; font-weight: bold; text-align: center; min-width: 120px;">
+    🟡 JavaScript<br><small>Interatividade</small>
+  </div>
+</div>
 
 ---
 
@@ -57,6 +65,20 @@ Fique atento para atualizações incríveis!
 ## 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgepazcom1955&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepazcom1955&theme=radical&layout=compact)
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center;">
+    📈 Repositórios<br><small>Em desenvolvimento</small>
+  </div>
+  <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center;">
+    ⭐ Contribuições<br><small>Crescendo</small>
+  </div>
+  <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 15px 25px; border-radius: 8px; color: #333; font-weight: bold; text-align: center;">
+    🔥 Streak<br><small>Aprendendo</small>
+  </div>
+</div>
 
 ---
 
