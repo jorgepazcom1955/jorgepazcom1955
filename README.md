@@ -19,30 +19,37 @@ Estou em uma jornada de aprendizado contínuo, desenvolvendo minhas habilidades 
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Frontend
 
 Atualmente estou trabalhando com:
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 40px 0;">
   <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 80px 60px; border-radius: 15px; color: white; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(255, 107, 53, 0.3);">
+    <div style="background: linear-gradient(135deg, #E34C26 0%, #FF6B35 100%); padding: 80px 60px; border-radius: 15px; color: white; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(227, 76, 38, 0.3);">
       HTML5
     </div>
-    <p style="margin-top: 15px; font-weight: bold; color: #FF6B35; font-size: 18px;">Estrutura</p>
+    <p style="margin-top: 15px; font-weight: bold; color: #E34C26; font-size: 18px;">Estrutura</p>
   </div>
   
   <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 80px 60px; border-radius: 15px; color: white; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(247, 147, 30, 0.3);">
+    <div style="background: linear-gradient(135deg, #264DE4 0%, #2965F1 100%); padding: 80px 60px; border-radius: 15px; color: white; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(38, 77, 228, 0.3);">
       CSS3
     </div>
-    <p style="margin-top: 15px; font-weight: bold; color: #F7931E; font-size: 18px;">Estilização</p>
+    <p style="margin-top: 15px; font-weight: bold; color: #264DE4; font-size: 18px;">Estilização</p>
   </div>
   
   <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 80px 60px; border-radius: 15px; color: #333; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(255, 215, 0, 0.3);">
+    <div style="background: linear-gradient(135deg, #F7DF1E 0%, #FFEB3B 100%); padding: 80px 60px; border-radius: 15px; color: #333; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(247, 223, 30, 0.3);">
       JavaScript
     </div>
-    <p style="margin-top: 15px; font-weight: bold; color: #FFD700; font-size: 18px;">Interatividade</p>
+    <p style="margin-top: 15px; font-weight: bold; color: #F7DF1E; font-size: 18px;">Interatividade</p>
+  </div>
+
+  <div style="text-align: center;">
+    <div style="background: linear-gradient(135deg, #61DAFB 0%, #00D9FF 100%); padding: 80px 60px; border-radius: 15px; color: #333; font-weight: bold; font-size: 48px; min-width: 180px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 16px rgba(97, 218, 251, 0.3);">
+      React
+    </div>
+    <p style="margin-top: 15px; font-weight: bold; color: #61DAFB; font-size: 18px;">Componentes</p>
   </div>
 </div>
 
@@ -80,13 +87,13 @@ Fique atento para atualizações incríveis!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepazcom1955&theme=radical&layout=compact)
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-  <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center;">
+  <div style="background: linear-gradient(135deg, #E34C26 0%, #FF6B35 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center;">
     📈 Repositórios<br><small>Em desenvolvimento</small>
   </div>
-  <div style="background: linear-gradient(135deg, #F7931E 0%, #FFA500 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center;">
+  <div style="background: linear-gradient(135deg, #264DE4 0%, #2965F1 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; text-align: center;">
     ⭐ Contribuições<br><small>Crescendo</small>
   </div>
-  <div style="background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%); padding: 15px 25px; border-radius: 8px; color: #333; font-weight: bold; text-align: center;">
+  <div style="background: linear-gradient(135deg, #F7DF1E 0%, #FFEB3B 100%); padding: 15px 25px; border-radius: 8px; color: #333; font-weight: bold; text-align: center;">
     🔥 Streak<br><small>Aprendendo</small>
   </div>
 </div>
@@ -96,4 +103,3 @@ Fique atento para atualizações incríveis!
 ### ⭐ Se você gostou do meu perfil, considere deixar uma estrela nos meus repositórios!
 
 **Obrigado por visitar! 🙏**
-
