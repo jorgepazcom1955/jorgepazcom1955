@@ -3,6 +3,15 @@
 ## 👋 Meu nome é **Jorge Luiz Soares**
 ### (@jorgepazcom1955)
 
+<div style="position: relative; text-align: center; color: white;">
+    <!-- Imagem de Fundo -->
+    <img src="img/Captura de tela 2026-03-01 094650.png" alt="Fundo" style="width: 100%; height: auto; opacity: 0.8;">
+
+    <!-- Foto na Frente -->
+    <img src="img/20260512_100518.jpg" alt="Foto"
+        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 150px; height: 150px; border-radius: 50%; border: 5px solid white;">
+</div>
+
 Sou um desenvolvedor em aprendizado focado em **desenvolvimento web front-end**.
 
 ---
